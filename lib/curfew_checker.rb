@@ -3,6 +3,7 @@ if 7>5
 puts "Seven is greater than 5"
 puts "Seven is not greater than 5"
 end
+end
 
 def curfew_checker(time)
   elsif 9<11
