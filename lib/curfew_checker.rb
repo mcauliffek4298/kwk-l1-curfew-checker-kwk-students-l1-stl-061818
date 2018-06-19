@@ -1,4 +1,5 @@
 def simple_curfew_checker(time)
+
 if 6 > 5
 puts "Six is greater than 5."
 puts "Six is not less than 5."
