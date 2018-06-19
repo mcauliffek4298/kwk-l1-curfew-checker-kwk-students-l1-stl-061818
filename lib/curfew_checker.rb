@@ -11,8 +11,11 @@ def curfew_checker(time)
     "Nine is less than 7"
 end
 
-def complex_curfew_checker(time)
-  # code goes here
+def complex_curfew_checker(5)
+  5>2
+  puts "5 is greater than 2"
+  puts "5 is not less than 2"
+end
 end
 
 def deluxe_curfew_checker(time)
